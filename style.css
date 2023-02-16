@@ -16,16 +16,17 @@ body {
   display: flex;
   align-items: flex-start;
   justify-content: center;
-  background: linear-gradient(to top left, #878491, #6e64ca);
+  background: linear-gradient(to top left, #220d63, #4bb164);
 }
 .show-modal {
   font-size: 2rem;
   font-weight: 600;
-  padding: 3.5rem 4.5rem;
-  margin: 20rem 2rem;
+  padding: 3.5rem 5.5rem;
+  margin: 30rem 2rem;
   border: none;
-  background-color: #fff;
-  color: #555;
+  border-radius: 2px solid black;
+  background-color: #b57bd6;
+  color: black;
   border-radius: 10rem;
   cursor: pointer;
 }
